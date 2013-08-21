@@ -4,7 +4,11 @@
 
 ## How to use
 
-* Install the Octosplit [Chrome extension](https://chrome.google.com/webstore/detail/mnkacicafjlllhcedhhphhpapmdgjfbb)
+* Clone the project
+* Open Tools > Extensions menu in Chrome
+* Enable _developer mode_
+* Click on _load the unpacked extension_
+* Select the path to your local copy of **Octosplit**
 * Just go on a diffs page on GitHub and check the new option : ![](http://imageshack.us/a/img833/9178/octosplitbutton.png)
 
 ## What is changed
@@ -14,14 +18,6 @@
 * The global size of working area is increased (relative to window size).
 
 [![](http://img18.imageshack.us/img18/5161/4m8.png "Side by side diffs")](http://img18.imageshack.us/img18/5161/4m8.png "Side by side diffs")
-
-## How to install for dev
-
-* Clone the project
-* Open Tools > Extensions menu in Chrome
-* Enable _developer mode_
-* Click on _load the unpacked extension_
-* Select the path to your local copy of **Octosplit**
 
 ## Warning
 
